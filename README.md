@@ -1,4 +1,4 @@
-# CSC-6301 SortedList Program
+# CSC-6301 Sorted Integer List Program
 
 This Java application takes in user inputted integers from the console, stores them in sorted ascending order, and then prints out the full list once the user input has completed.
 
